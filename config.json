@@ -1,0 +1,11 @@
+{
+  "database_path": "C:/Users/Q3Trab/Master_OCR_Suite/file_organizer_agent/db.sqlite3",
+  "pool_size": 8,
+  "cache_dir": "C:/Users/Q3Trab/Master_OCR_Suite/file_organizer_agent/cache",
+  "vault_dir": "C:/Users/Q3Trab/Master_OCR_Suite/file_organizer_agent/backups",
+  "watch_paths": [
+    "C:/Users/Q3Trab/Master_OCR_Suite",
+    "C:/Users/Q3Trab/MCP GLOBAL",
+    "C:/Users/Q3Trab/Master OCR Tools"
+  ]
+}
