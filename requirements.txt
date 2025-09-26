@@ -1,5 +1,3 @@
-text
-sqlite3
-difflib
-logging
-# and any ML or cloud SDKs if you extend
+watchdog
+prometheus_client
+pytest
