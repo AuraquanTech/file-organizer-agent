@@ -1,2 +1,2 @@
-# Award-Winning File Organizer Agent v3.0
-Enterprise-Grade | Real-Time | Self-Learning | Highly Scalable
+# file-organizer-agent
+Advanced Python File Organizer Agent with ML-ready architecture, atomic operations, cloud sync, and enterprise-grade features
